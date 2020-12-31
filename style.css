@@ -1,0 +1,12 @@
+body {
+    background-image: image('img.jpg');
+}
+
+h1 {
+    position: absolute;
+    font-size: 4.6rem;
+    color: white;
+    right: 20%;
+    top: 20px;
+    font-family: roboto;
+} 
