@@ -1,5 +1,6 @@
 body {
-    background-image: image('img.jpg');
+    background-image: url("img.jpg");
+    background-size: 100%;
 }
 
 h1 {
