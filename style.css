@@ -1,4 +1,6 @@
 body {
+    margin-left: 25%;
+    align-content: center;
     background-size: 100%;
 }
 
@@ -12,10 +14,11 @@ header {
 }
 
 h1 {
+    font-family: Arial;
+    font-weight: normal;
     position: absolute;
     font-size: 4.6rem;
-    color: white;
-    right: 20%;
+    color: black;
+    right: 10%;
     top: 20px;
-    font-family: roboto;
 } 
